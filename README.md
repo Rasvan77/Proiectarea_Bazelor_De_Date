@@ -7,8 +7,8 @@
 Automatizarea activității dintr-o casă de schimb valutar prin eliminarea operării manuale, asigurarea vitezei de procesare la ghișeu, gestionarea automată a soldurilor de valută per ghișeu și păstrarea unui istoric complet al schimburilor și al cursurilor valutare.
 
 ### Obiective operaționale
-* **Gestiunea cursurilor de schimb:** Înregistrarea cursurilor de cumpărare, vânzare și BNR actualizate periodic[cite: 4].
-* **Evidența tranzacțiilor la ghișeu:** Salvarea datelor de identificare ale clienților (CI/Pașaport, CNP, cetățenie) și generarea chitanțelor[cite: 4].
+* **Gestiunea cursurilor de schimb:** Înregistrarea cursurilor de cumpărare, vânzare și BNR actualizate periodic.
+* **Evidența tranzacțiilor la ghișeu:** Salvarea datelor de identificare ale clienților și generarea chitanțelor.
 * **Monitorizarea soldurilor:** Urmărirea stocului fizic de bancnote pe fiecare ghișeu SOLD_GHISEU și înregistrarea transferurilor cu seiful central ALIMENTARE_SEIF.
 * **Fidelizare și cazuri speciale:** Aplicarea discounturilor configurate și tratarea cererilor de transfer de numerar între sucursale CERERE_TRANSFER_BANI_SUCURSALE.
 * **Niveluri de acces:** Drepturi diferențiate pentru casieri/operatori și administratori/manageri.
